@@ -1,0 +1,9 @@
+../Core/Src/touch_app.c:24:6:Read_TouchPanel	40	static
+../Core/Src/touch_app.c:118:6:Read_Image	32	static
+../Core/Src/touch_app.c:141:6:Convert_To_AIIn_Data	24	static
+../Core/Src/touch_app.c:153:6:Random_Number	64	static
+../Core/Src/touch_app.c:192:6:Display_AI_Output	176	static
+../Core/Src/touch_app.c:252:13:Bubblesort	32	static
+../Core/Src/touch_app.c:278:6:LCD_Config	8	static
+../Core/Src/touch_app.c:304:6:Draw_Menu	8	static
+../Core/Src/touch_app.c:336:6:Draw_First	8	static

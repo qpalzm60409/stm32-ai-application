@@ -1,0 +1,9 @@
+touch_app.c:24:6:Read_TouchPanel	14
+touch_app.c:118:6:Read_Image	5
+touch_app.c:141:6:Convert_To_AIIn_Data	3
+touch_app.c:153:6:Random_Number	5
+touch_app.c:192:6:Display_AI_Output	4
+touch_app.c:252:13:Bubblesort	5
+touch_app.c:278:6:LCD_Config	1
+touch_app.c:304:6:Draw_Menu	1
+touch_app.c:336:6:Draw_First	1
